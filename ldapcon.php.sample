@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * This file keeps the ldap connections parameters
+ *
+ * Moving these values to an external file allows for checking the main file into version control and distribution
+ */
+
+$binddn = 'cn=admin,dc=netways,dc=org';
+$bindpw = 'xxxx';
+$basedn = 'ou=hosts,ou=IcingaConfig,ou=LConf,dc=netways,dc=org';
+?>
