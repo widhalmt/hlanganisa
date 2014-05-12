@@ -12,6 +12,11 @@ This script was made for a Netways customer during my work as a consultant at Ne
 
 Since the name Icinga is a zulu word a co-worker thought it would be a good idea to name this script in zulu, too. Hence the name. Thanks for the inspiration, Christoph.
 
+more resources
+--------------
+
+You can find the API documentation at <http://devel.widhalm.or.at/mirror/pub/docs/phpdoc/hlanganisa/>
+
 changelog
 ---------
 
